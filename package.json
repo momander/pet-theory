@@ -1,0 +1,19 @@
+{
+  "name": "pet-theory",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/momander/pet-theory.git"
+  },
+  "author": "Martin Omander",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/momander/pet-theory/issues"
+  },
+  "homepage": "https://github.com/momander/pet-theory#readme"
+}
